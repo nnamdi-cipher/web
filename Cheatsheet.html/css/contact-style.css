@@ -1,0 +1,28 @@
+
+
+#contact-header {
+    background-color: black;
+    color: white;
+    line-height: 1.5;
+    font-size: 34px;
+    font-weight: bold;
+    padding: 40px!important;
+    text-align: center;
+}
+
+.form-row, .form-group {
+    background-color: rgb(29, 39, 50);
+    margin-top: 10px;
+}
+label {
+    color: white;
+}
+
+.form-check-input {
+    padding: 10px;
+}
+
+.main-content {
+    background-color: aqua;
+    font-size: 22px;
+}

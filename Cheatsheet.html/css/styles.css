@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Ubuntu:wght@300&display=swap');
+
+* {
+    font-family: 'Barlow', sans-serif;
+}
+
+
+body {
+   background-color: #e3f2fd; 
+
+}
+
+.navbar-brand {
+    margin-right: 30px;
+    color: aqua!important;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-link {
+    color: #e3f2fd!important;
+    ;
+}
+
+#main-footer {
+    background-color: rgb(87, 83, 83);
+    margin-top: 20px;
+    padding: 20px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+
+.card-text {
+    padding: 20px;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.company-contact {
+    font-size: 17px;
+    font-weight: bold!important;
+}
+
+.card-title {
+    font-size: 40px;
+    background-color: none;
+    text-align: center;
+}
+
+.card-title:hover {
+    background-color: rgb(29, 39, 50);
+    transition: 0.5s;
+    color: white;
+    background-size: cover!important;
+}
